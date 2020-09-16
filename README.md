@@ -2,7 +2,7 @@
 ### Hi there 👋
 <a href="https://resamaecabulang.netlify.app/" target="_blank"><img src="https://github.com/mikie27/mikie27/blob/master/banner.jpg"></a>
 
-Hello, I'm <strong>Resamae Cabulang</strong>, a Designer and Artist who knows how to code.
+Hello, I'm <strong>Resamae Cabulang</strong>, a Designer and Artist who codes.
 
 - 🔭 I’m currently working on my Volunteer Projects, Portfolio and a startup with my friends...
 - 🌱 I’m currently learning UX Design and a Lot of JavaScript...
