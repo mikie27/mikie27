@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<a href="https://resamaecabulang.netlify.app/" target="_blank"><img src="https://github.com/mikie27/mikie27/blob/master/banner.jpg"></a>
+<a href="https://resamaecabulang.netlify.app/" target="_blank"><img src="https://github.com/mikie27/mikie27/blob/master/bannergit.jpg"></a>
 
 Hello, I'm <strong>Resamae Cabulang</strong>, a Designer and Artist who codes.
 
