@@ -1,1 +1,1 @@
-![Demo](./rez-readme.gif)
+![Demo](./rez-readmee.gif)
