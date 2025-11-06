@@ -1,1 +1,1 @@
-<a href="rezmaeee.works">![Demo](./rez-readmee.gif)</a>
+<a href="rezmaeee.works">![Demo](./rez-readme.gif)</a>
